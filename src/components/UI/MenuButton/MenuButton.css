@@ -1,0 +1,10 @@
+.MenuButton {
+  cursor: pointer;
+  color: white;
+}
+
+.MenuButton:hover {
+  
+    border-bottom: 4px solid #40a4c8;
+    color: white;
+}
