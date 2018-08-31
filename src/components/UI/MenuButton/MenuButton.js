@@ -7,7 +7,9 @@ const menuButton = (props) => {
     <div 
         onClick={props.click}
         className={classes.MenuButton}>
-      MENU
+      <div></div>
+      <div></div>
+      <div></div>
     </div>
   );
 }
